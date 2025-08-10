@@ -71,4 +71,5 @@ New Task → [Status: Pending] → Mark Done → [Status: Done]
 
 ## **Note**
   - Every function is documented with clear in-code comments explaining its purpose, parameters, and logic flow — making the codebase easy to maintain and extend.
-  - It is necessary which not only help readers but also the LLMs when the interact with these functions as they add further information to every LLM call
+  - It is necessary which not only help readers but also the LLMs when the interact with these functions as they add further information to every LLM call.
+
